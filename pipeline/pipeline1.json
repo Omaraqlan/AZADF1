@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "joining details",
+				"description": "This is for joining both datasource",
 				"type": "ExecuteDataFlow",
 				"dependsOn": [],
 				"policy": {
