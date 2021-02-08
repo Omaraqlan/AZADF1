@@ -24,7 +24,35 @@
 				"type": "String"
 			},
 			{
-				"name": "Damage",
+				"name": "Verpakking",
+				"type": "String"
+			},
+			{
+				"name": "Voorkant",
+				"type": "String"
+			},
+			{
+				"name": "Achterkant",
+				"type": "String"
+			},
+			{
+				"name": "Bovenkant",
+				"type": "String"
+			},
+			{
+				"name": "Onderkant",
+				"type": "String"
+			},
+			{
+				"name": "Zijkantrechts",
+				"type": "String"
+			},
+			{
+				"name": "Zijkantlinks",
+				"type": "String"
+			},
+			{
+				"name": "Other",
 				"type": "String"
 			}
 		]
